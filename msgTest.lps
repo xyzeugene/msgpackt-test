@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="msgTest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="100"/>
+        <CursorPos X="17" Y="104"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\github\msgpack-delphi\msgpack.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="4">
+      <Position>
+        <Filename Value="msgTest.lpr"/>
+        <Caret Line="84" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="msgTest.lpr"/>
+        <Caret Line="64" Column="12" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="msgTest.lpr"/>
+        <Caret Line="94" Column="9" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="msgTest.lpr"/>
+        <Caret Line="40" Column="10" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="msgTest.lpr"/>
+        <Caret Line="125" Column="7" TopLine="79"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
